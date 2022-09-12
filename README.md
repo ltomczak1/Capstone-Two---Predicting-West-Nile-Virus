@@ -1,2 +1,2 @@
-# Capstone-Two---Predicting-West-Nile-Virus
+# Capstone Two: Predicting West Nile Virus
 Springboard Capstone Two
